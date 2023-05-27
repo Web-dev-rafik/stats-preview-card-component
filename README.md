@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Web-dev-rafik/stats-preview-card-component/blob/main/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code URL here](https://github.com/Web-dev-rafik/stats-preview-card-component)
+- Live Site URL: [Live site URL here](https://web-dev-rafik.github.io/stats-preview-card-component/)
 
 ## My process
 
